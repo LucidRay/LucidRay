@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucidRay
-- 👀 I’m interested in ...Web development/Devops
+- 👀 I’m interested in ...Web development/Devops and Machine Learning
 - 🌱 I’m currently learning ...AI
 - 💞️ I’m looking to collaborate on ...Software solutions
 - 📫 How to reach me ...lennoxmajiwa@gmail.com
